@@ -1,0 +1,4 @@
+[defaultPath]
+saveData = '\文档\WorldOfTheThreeKingdoms\Save'
+scenarioData = '\Content\Data\Scenario'
+commonData = '\Content\Data\Common'
